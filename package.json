@@ -1,6 +1,6 @@
 {
-  "homepage": "http://mavylm.github.io/spacechat",
-  "name": "spacechat",
+  "homepage": "http://mavylm.github.io/react-spacechat",
+  "name": "react-spacechat",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
