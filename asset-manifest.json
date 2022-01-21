@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/spacechat/static/css/main.66cba7da.css",
+    "main.js": "/spacechat/static/js/main.1c4f3284.js",
+    "static/media/bg.jpg": "/spacechat/static/media/bg.3e89ef37802d7cb3b93d.jpg",
+    "index.html": "/spacechat/index.html",
+    "main.66cba7da.css.map": "/spacechat/static/css/main.66cba7da.css.map",
+    "main.1c4f3284.js.map": "/spacechat/static/js/main.1c4f3284.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66cba7da.css",
+    "static/js/main.1c4f3284.js"
+  ]
+}
