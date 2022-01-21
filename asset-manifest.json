@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/spacechat/static/css/main.66cba7da.css",
-    "main.js": "/spacechat/static/js/main.1c4f3284.js",
-    "static/media/bg.jpg": "/spacechat/static/media/bg.3e89ef37802d7cb3b93d.jpg",
-    "index.html": "/spacechat/index.html",
-    "main.66cba7da.css.map": "/spacechat/static/css/main.66cba7da.css.map",
-    "main.1c4f3284.js.map": "/spacechat/static/js/main.1c4f3284.js.map"
+    "main.css": "/react-spacechat/static/css/main.a5f26b7f.css",
+    "main.js": "/react-spacechat/static/js/main.6c16d3c2.js",
+    "static/media/bg.jpg": "/react-spacechat/static/media/bg.3e89ef37802d7cb3b93d.jpg",
+    "index.html": "/react-spacechat/index.html",
+    "main.a5f26b7f.css.map": "/react-spacechat/static/css/main.a5f26b7f.css.map",
+    "main.6c16d3c2.js.map": "/react-spacechat/static/js/main.6c16d3c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.66cba7da.css",
-    "static/js/main.1c4f3284.js"
+    "static/css/main.a5f26b7f.css",
+    "static/js/main.6c16d3c2.js"
   ]
 }
